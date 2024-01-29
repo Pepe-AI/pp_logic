@@ -48,24 +48,25 @@
 </td>
 
 </tr>
-
+<!--
 <tr>
 <td width="50%">
 <h3 align="center">🎧 Spotify Playing </h3>
 <div align="center">
-  
+  <!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s30c9lxa8ph0gk6pyow4tzdqy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=s30c9lxa8ph0gk6pyow4tzdqy&redirect=true)
-
+<!--
 </div>                                                                                     
 </td>
 <td width="50%">
 <h3 align="center">⚙️ &nbsp;GitHub Analytics </h3>
 <div align="left">
-  
+  <!--
   ![AliLogicM's Stats](https://github-readme-stats.vercel.app/api?username=AliLogicM&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
   ![AliLogicM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AliLogicM&theme=tokyonight&hide_border=false)
   ![AliLogicM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliLogicM&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-  
+ <!-- 
 </tr>
+
 </table> 
 
