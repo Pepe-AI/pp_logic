@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Octavio or pp (im not a peso pluma)</h1>
 <h3 align="center">A fuckin  AI developer from México</h3>
 <p align="center">
-<a href="https://app.daily.dev/sobredosisdepython"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Finsightcrime.org%2Fes%2Fnoticias-crimen-organizado-mexico%2Fnemesio-oseguera-cervantes-alias-mencho%2F&psig=AOvVaw1LqT4GG1Pib_fbabVIY1V3&ust=1706640546057000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCEmM2hg4QDFQAAAAAdAAAAABAm" width="400" alt="Jose Octavio Rios Perez's Dev Card"/></a>
+<a href="https://app.daily.dev/sobredosisdepython"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.telemundo.com%2Fnoticias%2Fnoticias-telemundo%2Fnarcotrafico%2Fun-corrido-dice-que-el-mencho-ya-se-fue-y-desata-rumores-de-la-supuest-rcna129859&psig=AOvVaw1LqT4GG1Pib_fbabVIY1V3&ust=1706640546057000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCEmM2hg4QDFQAAAAAdAAAAABA0" width="400" alt="Jose Octavio Rios Perez's Dev Card"/></a>
 </p>
 
 ## Connect with me 😎
