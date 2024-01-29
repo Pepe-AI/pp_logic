@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Octavio or pp (im not a peso pluma)</h1>
 <h3 align="center">A fuckin  AI developer from México</h3>
 <p align="center">
-<a href="https://app.daily.dev/alilm2000"><img src="[https://www.google.com/imgres?imgurl=https%3A%2F%2Flaroussecocina.mx%2Fwp-content%2Fuploads%2F2022%2F03%2F040322_COVER.png.webp&tbnid=MFFxarMsq4lYnM&vet=12ahUKEwjVuJfVpIOEAxVNwckDHeV8DDsQMygDegQIARB2..i&imgrefurl=https%3A%2F%2Flaroussecocina.mx%2Fblog%2Ftacos-tipicos-de-los-32-estados-de-mexico%2F&docid=9wF9e6Hlid-jQM&w=1280&h=720&q=tacos&client=opera-gx&ved=2ahUKEwjVuJfVpIOEAxVNwckDHeV8DDsQMygDegQIARB2](https://es.wikipedia.org/wiki/Archivo:Mencho_-_2018_Wanted_Poster_(cropped)_(cropped).PNG)" width="400" alt="Jose Octavio Rios Perez's Dev Card"/></a>
+<a href="https://app.daily.dev/alilm2000"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Mencho_-_2018_Wanted_Poster_%28cropped%29_%28cropped%29.PNG" width="400" alt="Jose Octavio Rios Perez's Dev Card"/></a>
 </p>
 
 ## Connect with me 😎
