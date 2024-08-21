@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Octavio or pp (im not a peso pluma)</h1>
-<h3 align="center">A fuckin  AI developer from México</h3>
+<h3 align="center">AI developer from México</h3>
 <p align="center">
 <a href="https://app.daily.dev/alilm2000"><img src="" width="400" alt="Jose Octavio Rios Perez's Dev Card"/></a>
 </p>
